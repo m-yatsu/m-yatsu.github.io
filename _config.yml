@@ -16,7 +16,7 @@
 title: Motoki YATSU, Ph.D.
 email: motoki.yatsu@ieee.org
 description: > # this means to ignore newlines until "baseurl:"
-  Motoki Yatsu's personal site, including profile, CV and links to other personal media.
+  This is Motoki Yatsu's personal site, including his profile, CV and links to other social (and/or academic) media.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tuu_yaa
