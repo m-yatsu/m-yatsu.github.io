@@ -6,7 +6,7 @@ permalink: /cv/
 
 Motoki YATSU, Ph.D.
 ====
-谷津 元樹 (In Japanese <i>kanji</i> characters)
+The whole name is written as 谷津 元樹 in Japanese <i>kanji</i> characters.
 
 ## Contact (Affiliation)
 
@@ -50,15 +50,15 @@ School of Engineering and Science,<br>
 
 ### Professional Experiences
 
-1. 2018/9--now: Assistant Professor, Aoyama Gakuin University
-1. 2017/4--2017/8: Post-doctoral Researcher, Kitami Institute of Technology ([Masui-Ptaszynski TIP Lab.](http://orion.cs.kitami-it.ac.jp/tipwiki/tip_home_E))
-1. 2015/4--2015/8: Part-time Lecturer, Hokkaido University of Science
-1. 2012/4--2013/3: Part-time Lecturer, Hokkai Gakuen University
-1. 2012/4--2012/8: Part-time Lecturer, Hokkaido Institute of Technology (now known as Hokkaido University of Science)
+* 2018/9--now: Assistant Professor, Aoyama Gakuin University
+* 2017/4--2017/8: Post-doctoral Researcher, Kitami Institute of Technology ([Masui-Ptaszynski TIP Lab.](http://orion.cs.kitami-it.ac.jp/tipwiki/tip_home_E))
+* 2015/4--2015/8: Part-time Lecturer, Hokkaido University of Science
+* 2012/4--2013/3: Part-time Lecturer, Hokkai Gakuen University
+* 2012/4--2012/8: Part-time Lecturer, Hokkaido Institute of Technology (now known as Hokkaido University of Science)
 
 ### Education
 
-1. Hokkaido University (Sapporo, Japan), Ph.D, Graduate School of Information Science and Technology (2017)
-1. Hokkaido University, M.IST. Graduate School of Information Science and Technology (2012)
-1. Hokkaido University, B.A. Faculty of Letters (Course of Linguistics and Literature) (2010)
+* Ph.D. at Hokkaido University (Sapporo, Japan), Graduate School of Information Science and Technology (2017)
+* M.IST. at Hokkaido University, Graduate School of Information Science and Technology, Division of Media and Network Technologies (2012)
+* B.A. at Hokkaido University, Faculty of Letters, Course of Linguistics and Literature (2010)
 
