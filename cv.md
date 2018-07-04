@@ -52,7 +52,7 @@ School of Engineering and Science,<br>
 
 ### Professional Experiences
 
-* 2018/9--now: Assistant Professor, Aoyama Gakuin University
+* 2018/9--present: Assistant Professor, Aoyama Gakuin University
 * 2017/4--2017/8: Post-doctoral Researcher, Kitami Institute of Technology ([Masui-Ptaszynski TIP Lab.](http://orion.cs.kitami-it.ac.jp/tipwiki/tip_home_E))
 * 2015/4--2015/8: Part-time Lecturer, Hokkaido University of Science
 * 2012/4--2013/3: Part-time Lecturer, Hokkai Gakuen University
