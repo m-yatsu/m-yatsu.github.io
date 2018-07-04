@@ -21,7 +21,7 @@ School of Engineering and Science,<br>
 
 * [researchmap.jp](https://researchmap.jp/m-yatsu/)
 * [ResearchGate](https://www.researchgate.net/profile/M._Yatsu)
-* [Twitter (@tuu_yaa](https://twitter.jp/tuu_yaa)
+* [Twitter (@tuu_yaa](https://twitter.com/tuu_yaa)
 
 ## Publications
 
