@@ -8,14 +8,15 @@ Motoki YATSU, Ph.D.
 ====
 The whole name is written as 谷津 元樹 in Japanese <i>kanji</i> characters.
 
-## Contact (Affiliation)
+## Affiliation & Contact
 
 yatsu <!-- nnospam -->&lt;atmark&gt; it.aoyama.ac.jp<br>
 motoki.yatsu &lt;atmark&gt;<!-- nnospam --> ieee.org
 
+[Harada Laboratory](http://www-haradalb.it.aoyama.ac.jp/) (Prof. Minoru HARADA)<br>
 Department of Integrated Information Technology,<br>
 School of Engineering and Science,<br>
-[Aoyama Gakuin University](https://www.aoyama.ac.jp/)
+[Aoyama Gakuin University](https://www.aoyama.ac.jp/) (<i>Sagamihara</i> Campus)
 
 ## Links
 
@@ -46,11 +47,11 @@ School of Engineering and Science,<br>
 1. <u>谷津 元樹</u>, ジェプカ ラファウ, 荒木 健治. トピック推定を用いたタスクドメインを選択するための発話生成. 言語処理学会第 19 回年次大会, March 2013.
 1. <u>谷津 元樹</u>, 荒木 健治, ジェプカ ラファウ. 汎用的な対話システムにおけるドメイン検出のための複合的手法. 第 28 回ファジィシステムシンポジウム, 日本知能情報ファジィ学会, September 2012.
 
-### Grant
+## Grant
 
 1. (As a team member) JSPS Grant-in-Aid (KAKENHI) Scientific Research C : **ユーモアの面白さの評価手法及び標準データセットの開発**. (2017/4 -- 2019/3, Project Investigator: Dr. Kenji ARAKI).
 
-### Professional Experiences
+## Professional Experiences
 
 * 2018/9--present: Assistant Professor, Aoyama Gakuin University
 * 2017/4--2017/8: Post-doctoral Researcher, Kitami Institute of Technology ([Masui-Ptaszynski TIP Lab.](http://orion.cs.kitami-it.ac.jp/tipwiki/tip_home_E))
@@ -58,7 +59,7 @@ School of Engineering and Science,<br>
 * 2012/4--2013/3: Part-time Lecturer, Hokkai Gakuen University
 * 2012/4--2012/8: Part-time Lecturer, Hokkaido Institute of Technology (now known as Hokkaido University of Science)
 
-### Education
+## Education
 
 * Ph.D. at Hokkaido University (Sapporo, Japan), Graduate School of Information Science and Technology (2017)
 * M.IST. at Hokkaido University, Graduate School of Information Science and Technology, Division of Media and Network Technologies (2012)
