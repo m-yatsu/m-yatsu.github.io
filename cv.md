@@ -49,7 +49,7 @@ School of Engineering and Science,<br>
 
 ## Grant
 
-1. (As a team member) JSPS Grant-in-Aid (KAKENHI) Scientific Research C : **ユーモアの面白さの評価手法及び標準データセットの開発**. (2017/4 -- 2019/3, Project Investigator: Dr. Kenji ARAKI).
+1. (As a team member) JSPS Grant-in-Aid (KAKENHI) Scientific Research C : **ユーモアの面白さの評価手法及び標準データセットの開発**. (2017/4 -- 2019/3, with Principal Investigator Dr. Kenji ARAKI).
 
 ## Professional Experiences
 
