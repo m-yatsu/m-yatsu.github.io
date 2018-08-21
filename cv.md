@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
+<small style="color:gray">CURRICULUM VITAE</small>
 
 Motoki YATSU, Ph.D.
 ====
@@ -22,8 +23,9 @@ School of Engineering and Science,<br>
 
 * [researchmap.jp](https://researchmap.jp/m-yatsu/)
 * [ResearchGate](https://www.researchgate.net/profile/M._Yatsu)
-* [Twitter (@tuu\_yaa)](https://twitter.com/tuu_yaa)
+* [Academia.edu](https://aoyama.academia.edu/MotokiYatsu)
 * [Google Scholar](https://scholar.google.co.jp/citations?user=r9O4KwgAAAAJ&hl=ja)
+* [Twitter (@tuu\_yaa)](https://twitter.com/tuu_yaa)
 
 ## Publications
 
