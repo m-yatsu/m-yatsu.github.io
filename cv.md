@@ -9,7 +9,13 @@ Motoki YATSU, Ph.D.
 ====
 The whole name is also written as 谷津 元樹 in Japanese <i>kanji</i> characters.
 
-## Affiliation & Contact
+## Education
+
+* Ph.D. at Hokkaido University (Sapporo, Japan), Graduate School of Information Science and Technology (2017)
+* M.IST. at Hokkaido University, Graduate School of Information Science and Technology, Division of Media and Network Technologies (2012)
+* B.A. at Hokkaido University, Faculty of Letters, Course of Linguistics and Literature (2010)
+
+## Contact & Affiliation
 
 yatsu <!-- nnospam -->&lt;atmark&gt; it.aoyama.ac.jp<br>
 motoki.yatsu &lt;atmark&gt;<!-- nnospam --> ieee.org
@@ -61,10 +67,4 @@ College of Science and Engineering,<br>
 * 2015/4--2015/8: Part-time Lecturer, Hokkaido University of Science
 * 2012/4--2013/3: Part-time Lecturer, Hokkai Gakuen University
 * 2012/4--2012/8: Part-time Lecturer, Hokkaido Institute of Technology (now known as Hokkaido University of Science)
-
-## Education
-
-* Ph.D. at Hokkaido University (Sapporo, Japan), Graduate School of Information Science and Technology (2017)
-* M.IST. at Hokkaido University, Graduate School of Information Science and Technology, Division of Media and Network Technologies (2012)
-* B.A. at Hokkaido University, Faculty of Letters, Course of Linguistics and Literature (2010)
 
