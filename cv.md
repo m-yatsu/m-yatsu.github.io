@@ -16,7 +16,7 @@ motoki.yatsu &lt;atmark&gt;<!-- nnospam --> ieee.org
 
 [Harada Laboratory](http://www-haradalb.it.aoyama.ac.jp/) (Prof. Minoru HARADA)<br>
 Department of Integrated Information Technology,<br>
-College of Science and Engineering ,<br>
+College of Science and Engineering,<br>
 [Aoyama Gakuin University](https://www.aoyama.ac.jp/) (<i>Sagamihara</i> Campus)
 
 ## Links
