@@ -16,7 +16,7 @@ motoki.yatsu &lt;atmark&gt;<!-- nnospam --> ieee.org
 
 [Harada Laboratory](http://www-haradalb.it.aoyama.ac.jp/) (Prof. Minoru HARADA)<br>
 Department of Integrated Information Technology,<br>
-School of Engineering and Science,<br>
+College of Engineering and Science,<br>
 [Aoyama Gakuin University](https://www.aoyama.ac.jp/) (<i>Sagamihara</i> Campus)
 
 ## Links
@@ -56,7 +56,7 @@ School of Engineering and Science,<br>
 
 ## Professional Experiences
 
-* 2018/9--present: Assistant Professor, Aoyama Gakuin University
+* 2017/9--present: Assistant Professor, Aoyama Gakuin University
 * 2017/4--2017/8: Post-doctoral Researcher, Kitami Institute of Technology ([Masui-Ptaszynski TIP Lab.](http://orion.cs.kitami-it.ac.jp/tipwiki/tip_home_E))
 * 2015/4--2015/8: Part-time Lecturer, Hokkaido University of Science
 * 2012/4--2013/3: Part-time Lecturer, Hokkai Gakuen University
