@@ -62,7 +62,10 @@
     <block type="logic_negate"></block>
   </category>
   <category name="繰り返し" colour="#5ba55b">
-    <block type="controls_for">
+  <block type="controls_forEach">
+      <field name="VAR" id="BmvJWAP[w$:U4,ZJ}mfY">i</field>
+  </block>
+  <block type="controls_for">
       <field name="VAR" id="#+F(UYkH;7,.8L#|1jU9">j</field>
       <value name="FROM">
         <shadow type="math_number">
@@ -115,7 +118,6 @@
       </value>
     </block>
   </category>
-<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
   <category name="リスト (配列)" colour="#745ba5">
     <block type="lists_create_with">
       <mutation items="0"></mutation>
