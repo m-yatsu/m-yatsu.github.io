@@ -6,7 +6,7 @@ permalink: /cv/
 
 Motoki YATSU, Ph.D.
 ====
-The whole name is also written as 谷津 元樹 in Japanese <i>kanji</i> characters.
+The whole name is also written as 谷津 元樹 with Japanese <i>kanji</i> characters.
 
 ## Education
 
