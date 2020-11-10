@@ -20,7 +20,7 @@ The whole name is also written as 谷津 元樹 in Japanese <i>kanji</i> charact
 yatsu <!-- nnospam -->&lt;atmark&gt; it.aoyama.ac.jp<br>
 motoki.yatsu &lt;atmark&gt;<!-- nnospam --> ieee.org
 
-[Harada Laboratory](http://www-haradalb.it.aoyama.ac.jp/) (Prof. Minoru HARADA)<br>
+Morita Laboratory ([Prof. Takeshi Morita](https://takeshi-morita.jp/index.html)<br>
 Department of Integrated Information Technology,<br>
 College of Science and Engineering,<br>
 [Aoyama Gakuin University](https://www.aoyama.ac.jp/) (<i>Sagamihara</i> Campus)
