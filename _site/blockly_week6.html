@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Blockly Demo: Generating JavaScript</title>
+    <script src="/blockly/blockly_compressed.js"></script>
+    <script src="/blockly/blocks_compressed.js"></script>
+    <script src="/blockly/javascript_compressed.js"></script>
+    <script src="/blockly/msg/js/ja.js"></script>
+<script>
+</script>
+</head>
+<body>
+
+    <button type="button" onclick="evalCode()" style="font-size: 2em">実行する</button>
+    <div id="blocklyDiv" style="height: 600px; width: 1024px;"></div>
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="数と式" colour="#5b67a5">
+    <block type="math_number">
+      <field name="NUM">0</field>
+    </block>
+    <block type="math_arithmetic">
+      <field name="OP">ADD</field>
+      <value name="A">
+        <shadow type="math_number">
+          <field name="NUM">1</field>
+        </shadow>
+      </value>
+      <value name="B">
+        <shadow type="math_number">
+          <field name="NUM">1</field>
+        </shadow>
+      </value>
+    </block>
+    <block type="math_modulo">
+      <value name="DIVIDEND">
+        <shadow type="math_number">
+          <field name="NUM">64</field>
+        </shadow>
+      </value>
+      <value name="DIVISOR">
+        <shadow type="math_number">
+          <field name="NUM">10</field>
+        </shadow>
+      </value>
+    </block>
+    <block type="math_single">
+      <field name="OP">ROOT</field>
+      <value name="NUM">
+        <shadow type="math_number">
+          <field name="NUM">9</field>
+        </shadow>
+      </value>
+    </block>
+  </category>
+  <category name="条件と論理" colour="#5b80a5">
+    <block type="controls_if"></block>
+    <block type="logic_compare">
+      <field name="OP">EQ</field>
+    </block>
+    <block type="logic_negate"></block>
+  </category>
+  <category name="繰り返し" colour="#5ba55b">
+    <block type="controls_for">
+      <field name="VAR" id="#+F(UYkH;7,.8L#|1jU9">j</field>
+      <value name="FROM">
+        <shadow type="math_number">
+          <field name="NUM">1</field>
+        </shadow>
+      </value>
+      <value name="TO">
+        <shadow type="math_number">
+          <field name="NUM">10</field>
+        </shadow>
+      </value>
+      <value name="BY">
+        <shadow type="math_number">
+          <field name="NUM">1</field>
+        </shadow>
+      </value>
+    </block>
+  </category>
+  <category name="テキスト" colour="#5ba58c">
+    <block type="text">
+      <field name="TEXT"></field>
+    </block>
+    <block type="text_join">
+      <mutation items="2"></mutation>
+    </block>
+    <block type="text_print">
+      <value name="TEXT">
+        <shadow type="text">
+          <field name="TEXT">abc</field>
+        </shadow>
+      </value>
+    </block>
+  </category>
+  <category name="変数" colour="#a55b80">
+    <block type="variables_get">
+      <field name="VAR" id="a)aZyh|%}L$/ZdI;(vnn">j</field>
+    </block>
+    <block type="variables_get">
+      <field name="VAR" id="a)aZyh|%}L$/ZdI;(vnN">x</field>
+    </block>
+    <block type="variables_set">
+      <field name="VAR" id="a)aZyh|%}L$/ZdI;(vnN">x</field>
+    </block>
+    <block type="math_change">
+      <field name="VAR" id="a)aZyh|%}L$/ZdI;(vnN">x</field>
+      <value name="DELTA">
+        <shadow type="math_number">
+          <field name="NUM">1</field>
+        </shadow>
+      </value>
+    </block>
+  </category>
+  <category name="Variables" colour="#a55b80" custom="VARIABLE"></category>
+</xml>
+
+    <script>
+        var toolbox = document.getElementById("toolbox");
+        var workspace = Blockly.inject('blocklyDiv', {toolbox: document.getElementById('toolbox')});
+    function evalCode () { 
+        Blockly.JavaScript.addReservedWords('code');
+        var code = Blockly.JavaScript.workspaceToCode(workspace);
+        try {
+            eval(code);
+        } catch(e) {
+            alert( "実行時エラー:" + e );
+        }
+    }
+    </script>
+</body>
+</html>
