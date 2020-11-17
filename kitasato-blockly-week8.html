@@ -60,14 +60,14 @@
     <block type="logic_operation">
       <field name="OP">OR</field>
     </block>
-	<block type="logic_compare">
+	<block type="logic_compare" tooltip="空欄に指定した値の項目が，リストに含まれている">
       <field name="OP">NEQ</field>
       <value name="A">
         <block type="lists_indexOf">
           <field name="END">FIRST</field>
           <value name="VALUE">
             <block type="variables_get">
-              <field name="VAR" id="Gf`fvSHfSTPZKLnUn;wd">list</field>
+              <field name="VAR" id="10;KMk$]`SgK5PnX0$bb">list_nonprime</field>
             </block>
           </value>
         </block>
@@ -183,9 +183,6 @@
         </block>
       </value>
     </block>
-    <block type="logic_compare">
-      <field name="OP">EQ</field>
-    </block>
     <block type="lists_setIndex">
       <mutation at="false"></mutation>
       <field name="MODE">INSERT</field>
@@ -203,6 +200,24 @@
       <value name="LIST">
         <block type="variables_get">
           <field name="VAR" id="10;KMk$]`SgK5PnX0$?{">list_100</field>
+        </block>
+      </value>
+    </block>
+	<block type="logic_compare" tooltip="空欄に指定した値の項目が，リストに含まれている">
+      <field name="OP">NEQ</field>
+      <value name="A">
+        <block type="lists_indexOf">
+          <field name="END">FIRST</field>
+          <value name="VALUE">
+            <block type="variables_get">
+              <field name="VAR" id="10;KMk$]`SgK5PnX0$bb">list_nonprime</field>
+            </block>
+          </value>
+        </block>
+      </value>
+      <value name="B">
+        <block type="math_number">
+          <field name="NUM">0</field>
         </block>
       </value>
     </block>
