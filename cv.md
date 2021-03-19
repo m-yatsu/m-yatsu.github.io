@@ -43,7 +43,7 @@ College of Science and Engineering,<br>
 
 ## Publications
 
-Please see the links above or [this page](/publications).
+Please refer to the site links above or [this publication list](/publications).
 
 ## Grant
 
