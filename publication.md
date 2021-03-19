@@ -18,7 +18,7 @@ permalink: /publications/
 ### Refereed
 
 * <u>Yatsu, M.</u> and Araki, K. (2018). Comparison of Pun Detection Methods Using Japanese Pun Corpus. <i>Language Resources and Evaluation Conference (LREC 2018)</i>. Miyazaki, Japan, May 2018.
-* Rzepka, R., Y. Amaya, <u>Yatsu, M.</u> and Araki, K. (2015). Automatic Narrative Humor Recognition Method Using Machine Learning and Semantic Similarity Based Punchline Detection. <i>International Workshop on Chance Discovery, Data Synthesis and Data Market</i> in IJCAI2015. Buenos Aires, Argentina, July 2015.
+* Rzepka, R., Amaya Y., <u>Yatsu, M.</u> and Araki, K. (2015). Automatic Narrative Humor Recognition Method Using Machine Learning and Semantic Similarity Based Punchline Detection. <i>International Workshop on Chance Discovery, Data Synthesis and Data Market</i> in IJCAI2015. Buenos Aires, Argentina, July 2015.
 * <u>Yatsu, M.</u>, Rzepka, R. and Araki, K. (2012). A Domain Analytic Method in Modular-Designed Dialogue System: Application to a System for Japanese. <i>Linguistic and Cognitive Approaches To Dialogue Agents (AISB/IACAP Symposium)</i> Birmingham, UK, July 2012.
 * <u>Yatsu, M.</u>, Rzepka, R. and Araki, K. (2011). A Modules-based, Task-Navigational Dialogue System. <i>Proceedings of the Pacific Association for Computational Linguistics</i>, Kuala Lumpur, Malaysia, July 2011.
 
@@ -35,13 +35,13 @@ permalink: /publications/
 * <u>谷津 元樹</u>, ジェプカ ラファウ, 荒木 健治 (2013). トピック推定を用いたタスクドメインを選択するための発話生成. 言語処理学会第 19 回年次大会, March 2013.
 * <u>谷津 元樹</u>, 荒木 健治, ジェプカ ラファウ (2012). 汎用的な対話システムにおけるドメイン検出のための複合的手法. 第 28 回ファジィシステムシンポジウム, 日本知能情報ファジィ学会, September 2012.
 
-### Co-author & recent works
+### Co-author (recent works)
 
 * 吉兼 拓生, <u>谷津 元樹</u>, 森田 武史 (2020). 知識グラフを用いた対話型質問応答における推論方法の検討, 第16回情報システム学会全国大会研究発表大会, S5-4, 2020/12/5-12/11.
 * スホルクワイク 亜蘭, <u>谷津 元樹</u>, 森田 武史 (2020). 3D環境を利用したマルチモーダル対話システムにおける領域オントロジー, 第16回情報システム学会全国大会研究発表大会, S3-2, 2020/12/5-12/11.
 * スホルクワイク 亜蘭, <u>谷津 元樹</u>, 原田 実 (2020)．相手の様子を理解して話しかける雑談質問対話システム Hermes III．第82回情報処理学会全国大会, 1T-06, 2020/3/5-3/7.
 * 石田 港, 原田 実, <u>谷津 元樹</u> (2020)．英文に文節構造を導入しその語意と深層格を計算する英文意味解析システム ESage．第82回情報処理学会全国大会, 2T-05, 2020/3/5-3/7.
 * 小野 祥太郎, <u>谷津 元樹</u>, 原田 実 (2020)．テキストマイニングシステム STM におけるオノマトペ分析．第82回情報処理学会全国大会, 5T-05, 2020/3/5-3/7.
-* 吉兼 拓生, 河中 仁, 後藤 海斗, <u>谷津 元樹</u>, 原田 実 (2020)．英語質問応答システム EMetis．第82回情報処理学会全国大会, 5T-05, 2020/3/5-3/7.
+* 吉兼 拓生, 河中 仁, 後藤 海斗, <u>谷津 元樹</u>, 原田 実 (2020)．英語質問応答システム EMetis．第82回情報処理学会全国大会, 7T-01, 2020/3/5-3/7.
 
 -
