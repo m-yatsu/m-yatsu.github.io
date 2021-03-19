@@ -10,24 +10,25 @@ The whole name is also written as 谷津 元樹 with Japanese <i>kanji</i> chara
 
 ## Education
 
-* Ph.D. at Hokkaido University (Sapporo, Japan), Graduate School of Information Science and Technology (2017)
-* M.IST. at Hokkaido University, Graduate School of Information Science and Technology, Division of Media and Network Technologies (2012)
-* B.A. at Hokkaido University, Faculty of Letters, Course of Linguistics and Literature (2010)
+* Ph.D. at Hokkaido University, Graduate School of Information Science and Technology (March 2017)
+* M.IS. at Hokkaido University, Graduate School of Information Science and Technology, Division of Media and Network Technologies (March 2012)
+* B.A. at Hokkaido University, Faculty of Letters, Course of Linguistics and Literature (March 2010)
 
 ## Contact & Affiliation
 
 yatsu <!-- nnospam -->&lt;atmark&gt; it.aoyama.ac.jp<br>
 motoki.yatsu &lt;atmark&gt;<!-- nnospam --> ieee.org
 
-Morita Laboratory ([Prof. Takeshi Morita](https://takeshi-morita.jp/index.html))<br>
+[Morita Laboratory](https://ke.it.aoyama.ac.jp/) ([Prof. Dr. Takeshi MORITA](https://takeshi-morita.jp/index.html))<br>
 Department of Integrated Information Technology,<br>
 College of Science and Engineering,<br>
-[Aoyama Gakuin University](https://www.aoyama.ac.jp/) (<i>Sagamihara</i> Campus)
+[Aoyama Gakuin University](https://www.aoyama.ac.jp/) (<i>Sagamihara Campus</i>)
 
 ## Professional Experiences
 
 * 2017/9--present: Assistant Professor, Aoyama Gakuin University
 * 2017/4--2017/8: Post-doctoral Researcher, Kitami Institute of Technology ([Masui-Ptaszynski TIP Lab.](http://orion.cs.kitami-it.ac.jp/tipwiki/tip_home_E))
+* 2020/9--present: Part-time Lecturer, Kitasato University (<i>Information Science B</i>, a Liberal Arts course)
 * 2015/4--2015/8: Part-time Lecturer, Hokkaido University of Science
 * 2012/4--2013/3: Part-time Lecturer, Hokkai Gakuen University
 * 2012/4--2012/8: Part-time Lecturer, Hokkaido Institute of Technology (now known as Hokkaido University of Science)
@@ -46,5 +47,5 @@ Please see the links above or [this page](/publications).
 
 ## Grant
 
-1. (As a team member) JSPS Grant-in-Aid (KAKENHI) Scientific Research C : **ユーモアの面白さの評価手法及び標準データセットの開発**. (2017/4 -- 2019/3, with Principal Investigator Dr. Kenji ARAKI).
+1. (As a team member) JSPS Grant-in-Aid (KAKENHI) Scientific Research C : **ユーモアの面白さの評価手法及び標準データセットの開発**. (2017/4 -- 2019/3, with Principal Investigator Prof. Dr. Kenji ARAKI).
 
