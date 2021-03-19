@@ -4,9 +4,7 @@ title: Publication list
 permalink: /publications/
 ---
 
-# Publications
-
-Last update: 2021-03-19
+# Publications (last update: 2021-03-19)
 
 ## Journals, Book Chapters and Lecture Notes
 
